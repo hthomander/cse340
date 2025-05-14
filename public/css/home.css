@@ -37,7 +37,7 @@ main {
 
 .hero {
     position: relative;
-    tdisplay: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
