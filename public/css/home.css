@@ -26,7 +26,8 @@ header, main, footer {
 }
 
 nav a {
-    color: #fff;
+    color: aqua;
+   
     margin: 0 1rem;
     text-decoration: none;
 }
